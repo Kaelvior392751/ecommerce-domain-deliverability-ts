@@ -1,0 +1,8 @@
+{
+  "name": "ecommerce-domain-deliverability-ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {"demo": "tsx src/order_flow.ts", "test": "tsx src/order_flow.test.ts", "typecheck": "tsc --noEmit"},
+  "dependencies": {"zod": "^3.23.8"},
+  "devDependencies": {"tsx": "^4.19.2", "typescript": "^5.6.3"}
+}
